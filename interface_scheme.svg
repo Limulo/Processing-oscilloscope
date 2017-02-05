@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="869.90723"
+   height="536.01154"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="interface_scheme.svg"
+   inkscape:export-filename="/home/nicola/Documents/repos/processing-oscilloscope/interface_scheme.png"
+   inkscape:export-xdpi="51.576328"
+   inkscape:export-ydpi="51.576328">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path4119"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="335.18295"
+     inkscape:cy="267.90784"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="834"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <sodipodi:guide
+       orientation="0,1"
+       position="338.30341,312.52364"
+       id="guide4735" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="background"
+     style="display:none"
+     transform="translate(-49.090088,-71.088715)" />
+  <g
+     inkscape:label="canvas"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-49.090088,-379.35642)">
+    <rect
+       style="opacity:0.51327431;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect2985"
+       width="625.71429"
+       height="505.71423"
+       x="161.42857"
+       y="396.64789"
+       inkscape:export-filename="/home/nicola/Documents/repos/processing-oscilloscope/flowRoot4737.png"
+       inkscape:export-xdpi="51.576328"
+       inkscape:export-ydpi="51.576328" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="plotter"
+     transform="translate(-49.090088,-71.088715)">
+    <rect
+       style="opacity:0.51327431;fill:#0000e1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3764"
+       width="525.71423"
+       height="415.71429"
+       x="214.28572"
+       y="138.3802"
+       inkscape:export-filename="/home/nicola/Documents/repos/processing-oscilloscope/flowRoot4737.png"
+       inkscape:export-xdpi="51.576328"
+       inkscape:export-ydpi="51.576328" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="plotter-measures"
+     transform="translate(-49.090088,-71.088715)">
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 736.97143,137.25215 -524.22856,0 0,414.82751"
+       id="path3795"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/nicola/Documents/repos/processing-oscilloscope/flowRoot4737.png"
+       inkscape:export-xdpi="51.576328"
+       inkscape:export-ydpi="51.576328"
+       sodipodi:nodetypes="ccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="graph1"
+     transform="translate(-49.090088,-71.088715)">
+    <rect
+       style="opacity:0.51327431;fill:#0000e1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3766"
+       width="498.57144"
+       height="188.57143"
+       x="227.85715"
+       y="154.09448"
+       inkscape:export-filename="/home/nicola/Documents/repos/processing-oscilloscope/flowRoot4737.png"
+       inkscape:export-xdpi="51.576328"
+       inkscape:export-ydpi="51.576328" />
+    <rect
+       y="352.95163"
+       x="226.42857"
+       height="188.57143"
+       width="498.57144"
+       id="rect4749"
+       style="opacity:0.51327431;fill:#0000e1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/nicola/Documents/repos/processing-oscilloscope/flowRoot4737.png"
+       inkscape:export-xdpi="51.576328"
+       inkscape:export-ydpi="51.576328" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4751"
+       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Tom\'s New Roman';-inkscape-font-specification:'Tom\'s New Roman'"
+       transform="translate(395.71428,-249.99999)"
+       inkscape:export-filename="/home/nicola/Documents/repos/processing-oscilloscope/flowRoot4737.png"
+       inkscape:export-xdpi="51.576328"
+       inkscape:export-ydpi="51.576328"><flowRegion
+         id="flowRegion4753"><rect
+           id="rect4755"
+           width="381.42856"
+           height="98.571426"
+           x="34.285713"
+           y="345.52304" /></flowRegion><flowPara
+         id="flowPara4757"
+         style="font-size:22px;fill:#ffffff">topMargin</flowPara></flowRoot>    <flowRoot
+       transform="translate(505.71428,15.714292)"
+       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Tom\'s New Roman';-inkscape-font-specification:'Tom\'s New Roman'"
+       id="flowRoot4759"
+       xml:space="preserve"
+       inkscape:export-filename="/home/nicola/Documents/repos/processing-oscilloscope/flowRoot4737.png"
+       inkscape:export-xdpi="51.576328"
+       inkscape:export-ydpi="51.576328"><flowRegion
+         id="flowRegion4761"><rect
+           y="345.52304"
+           x="34.285713"
+           height="98.571426"
+           width="381.42856"
+           id="rect4763" /></flowRegion><flowPara
+         style="font-size:48px;fill:#ffffff"
+         id="flowPara4765">GRAPH 2</flowPara><flowPara
+         style="font-size:48px;fill:#ffffff"
+         id="flowPara4767" /></flowRoot>    <flowRoot
+       transform="translate(395.71428,210.00001)"
+       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Tom\'s New Roman';-inkscape-font-specification:'Tom\'s New Roman'"
+       id="flowRoot4769"
+       xml:space="preserve"
+       inkscape:export-filename="/home/nicola/Documents/repos/processing-oscilloscope/flowRoot4737.png"
+       inkscape:export-xdpi="51.576328"
+       inkscape:export-ydpi="51.576328"><flowRegion
+         id="flowRegion4771"><rect
+           y="345.52304"
+           x="34.285713"
+           height="98.571426"
+           width="381.42856"
+           id="rect4773" /></flowRegion><flowPara
+         style="font-size:22px;fill:#ffffff"
+         id="flowPara4775">bottomMargin</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4777"
+       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Tom\'s New Roman';-inkscape-font-specification:'Tom\'s New Roman'"
+       transform="matrix(0,-1,1,0,401.80989,429.01863)"
+       inkscape:export-filename="/home/nicola/Documents/repos/processing-oscilloscope/flowRoot4737.png"
+       inkscape:export-xdpi="51.576328"
+       inkscape:export-ydpi="51.576328"><flowRegion
+         id="flowRegion4779"><rect
+           id="rect4781"
+           width="381.42856"
+           height="98.571426"
+           x="34.285713"
+           y="345.52304" /></flowRegion><flowPara
+         id="flowPara4783"
+         style="font-size:22px;fill:#ffffff">rightMargin</flowPara><flowPara
+         style="font-size:22px;fill:#ffffff"
+         id="flowPara4785" /></flowRoot>    <flowRoot
+       transform="matrix(0,-1,1,0,-173.9044,411.87577)"
+       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Tom\'s New Roman';-inkscape-font-specification:'Tom\'s New Roman'"
+       id="flowRoot4787"
+       xml:space="preserve"
+       inkscape:export-filename="/home/nicola/Documents/repos/processing-oscilloscope/flowRoot4737.png"
+       inkscape:export-xdpi="51.576328"
+       inkscape:export-ydpi="51.576328"><flowRegion
+         id="flowRegion4789"><rect
+           y="345.52304"
+           x="34.285713"
+           height="98.571426"
+           width="381.42856"
+           id="rect4791" /></flowRegion><flowPara
+         style="font-size:22px;fill:#ffffff"
+         id="flowPara4793">leftMargin</flowPara><flowPara
+         id="flowPara4795"
+         style="font-size:22px;fill:#ffffff" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4797"
+       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Tom\'s New Roman';-inkscape-font-specification:'Tom\'s New Roman'"
+       transform="translate(505.71428,-184.28571)"
+       inkscape:export-filename="/home/nicola/Documents/repos/processing-oscilloscope/flowRoot4737.png"
+       inkscape:export-xdpi="51.576328"
+       inkscape:export-ydpi="51.576328"><flowRegion
+         id="flowRegion4799"><rect
+           id="rect4801"
+           width="381.42856"
+           height="98.571426"
+           x="34.285713"
+           y="345.52304" /></flowRegion><flowPara
+         id="flowPara4803"
+         style="font-size:48px;fill:#ffffff">GRAPH 1</flowPara><flowPara
+         id="flowPara4805"
+         style="font-size:48px;fill:#ffffff" /></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="graph-margins"
+     transform="translate(-49.090088,-71.088715)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3826"
+       d="m 721.54286,153.68073 -492.22856,0 0,140.82751"
+       style="fill:none;stroke:#00d200;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/nicola/Documents/repos/processing-oscilloscope/flowRoot4737.png"
+       inkscape:export-xdpi="51.576328"
+       inkscape:export-ydpi="51.576328" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#ffd200;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:16, 4;stroke-dashoffset:3.2;marker-start:none;marker-mid:none"
+       d="m 268.45716,294.25216 0,47.30973"
+       id="path3927"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/nicola/Documents/repos/processing-oscilloscope/flowRoot4737.png"
+       inkscape:export-xdpi="51.576328"
+       inkscape:export-ydpi="51.576328" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="text"
+     transform="translate(-49.090088,-71.088715)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3755"
+       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Tom\'s New Roman';-inkscape-font-specification:'Tom\'s New Roman'"
+       transform="translate(105.05211,24.792893)"
+       inkscape:export-filename="/home/nicola/Documents/repos/processing-oscilloscope/flowRoot4737.png"
+       inkscape:export-xdpi="51.576328"
+       inkscape:export-ydpi="51.576328"><flowRegion
+         id="flowRegion3757"><rect
+           id="rect3759"
+           width="241.42857"
+           height="92.85714"
+           x="7.1428571"
+           y="38.380196" /></flowRegion><flowPara
+         id="flowPara3761">(0, 0)</flowPara></flowRoot>    <flowRoot
+       transform="translate(781.95583,541.68642)"
+       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Tom\'s New Roman';-inkscape-font-specification:'Tom\'s New Roman'"
+       id="flowRoot3787"
+       xml:space="preserve"
+       inkscape:export-filename="/home/nicola/Documents/repos/processing-oscilloscope/flowRoot4737.png"
+       inkscape:export-xdpi="51.576328"
+       inkscape:export-ydpi="51.576328"><flowRegion
+         id="flowRegion3789"><rect
+           y="38.380196"
+           x="7.1428571"
+           height="92.85714"
+           width="241.42857"
+           id="rect3791" /></flowRegion><flowPara
+         id="flowPara3793">(width, height)</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3816"
+       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Tom\'s New Roman';-inkscape-font-specification:'Tom\'s New Roman'"
+       transform="translate(41.955838,91.686423)"
+       inkscape:export-filename="/home/nicola/Documents/repos/processing-oscilloscope/flowRoot4737.png"
+       inkscape:export-xdpi="51.576328"
+       inkscape:export-ydpi="51.576328"><flowRegion
+         id="flowRegion3818"><rect
+           id="rect3820"
+           width="241.42857"
+           height="92.85714"
+           x="7.1428571"
+           y="38.380196" /></flowRegion><flowPara
+         id="flowPara3822"
+         style="fill:#ff0000">plotterWidth</flowPara><flowPara
+         style="fill:#ff0000"
+         id="flowPara3824">plotterHeight</flowPara></flowRoot>    <flowRoot
+       transform="translate(237.67013,120.25785)"
+       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:'Tom\'s New Roman';-inkscape-font-specification:'Tom\'s New Roman'"
+       id="flowRoot3847"
+       xml:space="preserve"
+       inkscape:export-filename="/home/nicola/Documents/repos/processing-oscilloscope/flowRoot4737.png"
+       inkscape:export-xdpi="51.576328"
+       inkscape:export-ydpi="51.576328"><flowRegion
+         id="flowRegion3849"><rect
+           y="38.380196"
+           x="7.1428571"
+           height="92.85714"
+           width="241.42857"
+           id="rect3851"
+           style="fill:#00ff00" /></flowRegion><flowPara
+         style="fill:#00ff00"
+         id="flowPara3853">graphWidth</flowPara><flowPara
+         id="flowPara3855"
+         style="fill:#00ff00">graphHeight</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4737"
+       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:'Tom\'s New Roman';-inkscape-font-specification:'Tom\'s New Roman'"
+       transform="translate(278.07624,261.67921)"
+       inkscape:export-xdpi="51.576328"
+       inkscape:export-ydpi="51.576328"><flowRegion
+         id="flowRegion4739"><rect
+           style="fill:#00ff00"
+           id="rect4741"
+           width="241.42857"
+           height="92.85714"
+           x="7.1428571"
+           y="38.380196" /></flowRegion><flowPara
+         style="fill:#ffff00"
+         id="flowPara4745">intergraphMargin</flowPara></flowRoot>  </g>
+</svg>
