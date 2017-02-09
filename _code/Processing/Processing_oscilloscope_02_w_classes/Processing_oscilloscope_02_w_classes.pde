@@ -13,7 +13,7 @@ boolean bSerialListen;
 int sensorAddr, upper, lower;
 
 int N = 2;   // number of sensor to be plotted
-int K = 512; // numbere of values to be stored
+int K = 512; // number of values to be stored
 Graph graphs[];
 
 // plotter and graph interface aspect elements
