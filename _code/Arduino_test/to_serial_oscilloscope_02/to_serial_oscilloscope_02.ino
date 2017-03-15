@@ -12,7 +12,7 @@ void loop() {
   if( bSendToPlotter )
   {
     analogPlot( 0, 0 );
-    analogPlot( 3, 1 );
+    analogPlot( 5, 1 );
   }
 }
 

@@ -138,6 +138,10 @@ void keyPressed()
       //lastCurrent[ i ] = current[ i ];
     }
   }
+  else if (key == 's')
+  {
+    saveFrame("###-frame.png");
+  }
 }
 
 // MOUSE ////////////////////////////////////////
